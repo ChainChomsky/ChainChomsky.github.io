@@ -165,7 +165,7 @@
     transition: all 0.5s 1.4s;
   }
   .el__text {
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 40px;
     color: #fff;
   }
