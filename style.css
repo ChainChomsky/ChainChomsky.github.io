@@ -332,7 +332,7 @@
   .el:nth-child(1) .el__bg:before {
     -webkit-transition-delay: 0s;
             transition-delay: 0s;
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-3.jpg");
+    background-image: url("https://blog.hokaoneone.com/wordpress/wp-content/uploads/2020/04/Cropped-Walmsley_DSC0218-1.jpg");
   }
   .el:nth-child(2) {
     -webkit-transform: translate3d(105.2083333333%, 0, 0);
@@ -416,7 +416,7 @@
   .el:nth-child(4) .el__bg:before {
     -webkit-transition-delay: 0.3s;
             transition-delay: 0.3s;
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-6.jpg");
+    background-image: url("https://lh6.googleusercontent.com/rwtfZ29tgtSZZkapbY8stMud2-4JnWGlKAQAOa5Qmg49vGzhRMmg-6rcxjnVuMSflulLG7sju3R8XksW3-2h2XoaBP54aAAhDswx9ZGhCA468SXXjxWWUUVMeFX93WZmX1VHTy-0Ka8");
   }
   .el:nth-child(5) {
     -webkit-transform: translate3d(420.8333333333%, 0, 0);
