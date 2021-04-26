@@ -1,2 +1,0 @@
-# ChainChomsky.github.io
- 
